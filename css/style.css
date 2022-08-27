@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hsl(30, 38%, 92%);
+}
+
+
+.card{
+    width: 20.5rem;
+    margin: 2rem 1rem;
+    padding: 1rem 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #ffff ;
+}
+
+.imgPerfume{
+    width: 21.5rem;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+} 
+
+.imagen{
+    position: relative;
+    top: 3rem;
+    text-align: center;
+}
+
+.perfumeWord{
+     font-family: 'Fraunces';  
+     color:#898989;
+     line-height: 10px;
+     font-weight: lighter;
+     letter-spacing: 0.4rem;
+     font-size: 14px;
+}
